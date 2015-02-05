@@ -1,0 +1,17 @@
+{
+  "name": "unifeed",
+  "version": "1.0.0",
+  "description": "Unified feed data parser for social networks applications",
+  "main": "unifeed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unifeed",
+    "social",
+    "feed",
+    "parser"
+  ],
+  "author": "stephane-ruhlmann <stephanej.ruhlmann@yahoo.com> (stephane-ruhlmann.com)",
+  "license": "MIT"
+}
